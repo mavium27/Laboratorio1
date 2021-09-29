@@ -1,0 +1,8 @@
+{
+    "name": "Lab001",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "mvind",
+    "contributors": [],
+    "dependencies": {}
+}
